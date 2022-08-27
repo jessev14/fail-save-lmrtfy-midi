@@ -6,6 +6,7 @@
     "version": "1.0.0",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
+    "system": ["dnd5e"],
     "esmodules": [
         "./scripts/main.js"
     ],
