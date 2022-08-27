@@ -13,4 +13,4 @@ This module adds buttons to intentionally fail ability checks, saving throws, an
 
 This is especially useful in combination with automated Midi workflows.
 
-![Fail Rolls - LMRTFY](./fail-save-lmrtfy-midi.png);
+![Fail Rolls - LMRTFY](./fail-save-lmrtfy-midi.png)
