@@ -5,7 +5,6 @@ let failRoll;
 
 
 Hooks.once('setup', async () => {
-
     rollMethodMap = {
         'lmrtfy-ability-check': CONFIG.Actor.documentClass.prototype.rollAbilityTest,
         'lmrtfy-ability-save': CONFIG.Actor.documentClass.prototype.rollAbilitySave,
